@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8e04bd27-b4e9-44ec-81ce-25eae44b49d0)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (text "Test piece\n" (at 139.7 86.36 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid fd95096c-f36c-46ca-a81f-f6daf9f28ade)
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
